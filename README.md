@@ -1,3 +1,3 @@
 # hotelMenu
 
-![](image.png)
+![](example.png)
